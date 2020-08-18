@@ -1,4 +1,4 @@
-# rewards-spring-jpa-h2-swagger
+# charter rewards coding assignment
 Spring Boot application using JPA and swagger
 
 # Spring Boot, H2 DB , JPA, Swagger Rest API
@@ -15,7 +15,7 @@ Build a Rewards API using Spring Boot, H2 DB , JPA, Swagger Rest API
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/somu090242/rewards-spring-jpa-h2-swagger.git
+git clone https://github.com/RajeshSurapaneni1/rajeshCharterAssignment.git
 ```
 
 **2. Build and run the app using maven**
